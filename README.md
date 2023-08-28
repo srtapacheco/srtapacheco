@@ -1,4 +1,4 @@
-## Olá, eu sou a Karen Pacheco, estudante de Engenharia de computacao e informacao na UFRJ!
+## Olá, eu sou a Karen Pacheco, estudante de Engenharia de Computação e Informação na Universidade Federal do Rio de Janeiro!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Karen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
