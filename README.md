@@ -37,9 +37,16 @@ Meu nome é Karen Pacheco, sou estudante de Engenharia de Computação e Informa
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
-
-
 </p>
+
+## 🧑‍💻 Projetos Destacados
+- **Feira de Produtos Agroecológicos**
+  - Desenvolvi um site para a comercialização de produtos agroecológicos para a feira da IFESGO. Veja o site [aqui](https://feiraifesgo.cestaagroecologica.com.br/).
+- **SIGA - Equipe de Desenvolvimento**
+  - Participei da equipe de desenvolvimento do projeto SIGA na UFRJ. Para mais informações, acesse o [Instagram da equipe](https://www.instagram.com/equipesiga_ufrj/).
+- **Auto Escola Axioma**
+  - Desenvolvi um site para uma autoescola, onde os alunos podem encontrar informações sobre cursos e horários. Confira o site [aqui](https://autoescolaaxioma.com.br/).
+
   
 ## 📫 Como Entrar em Contato
 <div> 
