@@ -54,11 +54,11 @@ Veja o site [aqui](http://146.164.63.64:3000).
 - **Auto Escola Axioma**  
   - Desenvolvi um **site responsivo** para a Autoescola Axioma utilizando **HTML, CSS, JavaScript e WordPress**. O site oferece informações sobre cursos, horários e inscrições online, garantindo uma navegação intuitiva e acessível para os alunos. Confira o site [aqui](https://autoescolaaxioma.com.br/).
 
-- **Publicação Científica**  
-  - Publiquei um artigo científico na **Revista Científica Online Diálogos Internacionais**, qualificada como **Qualis B1 pela CAPES**. O artigo aborda a **construção de sistemas de comercialização agroecológica** e sua importância na soberania alimentar. A pesquisa foi desenvolvida com base na experiência prática com a plataforma Griefa e no impacto da comercialização digital para pequenos produtores rurais. Veja o site [aqui](dialogosinternacionais.com.br).
+- **Revista Diálogos Internacionais**  
+  - Construi um website para a **Revista Científica Online Diálogos Internacionais**, qualificada como **Qualis B1 pela CAPES**. Veja o site [aqui]([dialogosinternacionais.com.br](https://dialogosinternacionais.com.br/)).
  
 - **Griefa - Plataforma de Comércio Agroecológico**  
-  - Desenvolvi uma **plataforma de comercialização** de produtos agroecológicos, conectando pequenos produtores a consumidores, especialmente durante a pandemia. O sistema priorizou mercados locais, sociobiodiversidade e sustentabilidade. A solução foi implementada com **WordPress, PHP, JavaScript, HTML e CSS**, garantindo uma interface acessível e intuitiva. Veja o site [aqui](https://griefa.cestaagroecologica.com.br/).
+  - Desenvolvi uma **plataforma de comercialização** de produtos agroecológicos, conectando pequenos produtores a consumidores, especialmente durante a pandemia. O sistema priorizou mercados locais, sociobiodiversidade e sustentabilidade. A solução foi implementada com **WordPress, PHP, JavaScript, HTML e CSS**, garantindo uma interface acessível e intuitiva. Veja o site [aqui]([https://griefa.cestaagroecologica.com.br](https://feiraifesgo.cestaagroecologica.com.br/)/).
 
 ---
 
