@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,35:4D96FF,70:00C2A8,100:F9C74F&height=220&section=header&text=Karen%20Pacheco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cientista%20de%20Dados%20%7C%20Engenharia%20de%20Computa%C3%A7%C3%A3o%20%7C%20UFRJ&descAlignY=58&descSize=20" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,35:4D96FF,70:00C2A8,100:F9C74F&height=220&section=header&text=Karen%20Pacheco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cientista%20de%20Dados%20%7C%20L%C3%ADder%20T%C3%A9cnica%20%7C%20UFRJ&descAlignY=58&descSize=20" alt="banner" />
 </p>
 
 <h1 align="center">Olá, bem-vindo ao meu perfil! </h1>
@@ -29,7 +29,7 @@
 
 Meu nome é **Karen Pacheco**, formanda em **Engenharia de Computação e Informação na UFRJ**.
 
-Atualmente, atuo como **Cientista de Dados na Secretaria Municipal de Saúde do Rio**, trabalhando com **SQL, Python, BigQuery e modelos em dbt**, além de **integração e automação de análises com LLM**, **construção de dashboards** e **desenvolvimento de soluções orientadas por dados**.
+Atualmente, atuo como **Cientista de Dados e Líder Técnica na Secretaria Municipal de Saúde do Rio**, trabalhando com **SQL, Python, BigQuery e modelos em dbt**, além de **integração e automação de análises com LLM**, **construção de dashboards** e **desenvolvimento de soluções orientadas por dados**.
 
 Atuo ao longo de todo o ciclo analítico, incluindo:
 
