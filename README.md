@@ -27,7 +27,7 @@
 
 ## Sobre mim
 
-Meu nome é **Karen Pacheco**, formanda em **Engenharia de Computação e Informação na UFRJ**.
+Meu nome é **Karen Pacheco**, formada em **Engenharia de Computação e Informação na UFRJ**.
 
 Atualmente, atuo como **Cientista de Dados e Líder Técnica na Secretaria Municipal de Saúde do Rio**, trabalhando com **SQL, Python, BigQuery e modelos em dbt**, além de **integração e automação de análises com LLM**, **construção de dashboards** e **desenvolvimento de soluções orientadas por dados**.
 
